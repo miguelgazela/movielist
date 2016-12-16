@@ -1,0 +1,15 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.grid-item {
+  position: relative;
+}
+
+.movie-title {
+  position: absolute;
+  width: 100%;
+  background-color: red;
+}
