@@ -1,9 +1,9 @@
 $(document).ready(function() {
 
-  $('.grid').masonry({
+  $('.movielist').masonry({
     // options
-    itemSelector: '.grid-item',
-    columnWidth: 200
+    itemSelector: '.movieitem',
+    columnWidth: 260
   });
-  
+
 });

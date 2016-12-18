@@ -4,12 +4,66 @@
    Author's custom styles
    ========================================================================== */
 
-.grid-item {
-  position: relative;
+body {
+  padding: 60px 32px;
+  padding-left: 50px;
+  padding-right: 0;
+  background-color: #222B31;
+  color: rgb(236, 236, 236);
 }
 
-.movie-title {
+.pagetitle {
+  font-weight: 300;
+}
+
+.movielist {
+  margin-top: 64px;
+}
+
+.movieitem {
+  max-width: 230px;
+  margin-bottom: 32px;
+}
+
+.movieitem.notseen::after {
   position: absolute;
-  width: 100%;
-  background-color: red;
+  content: "";
+  top: 0px;
+  left: 0px;
+  width: 200px;
+  height: 296px;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+.movieposter {
+  height: 296px;
+  width: 200px;
+  box-shadow: 0 0 10px rgb(6, 6, 6);
+}
+
+.movieinfo {
+  padding: 0 3px;
+  color: #92A4B0;
+  font-size: 12px;
+}
+
+.movietitle {
+  font-size: 14px;
+  font-weight: 400;
+  text-overflow: ellipsis;
+  margin-bottom: 4px;
+  color: white;
+}
+
+.notseen .movietitle,
+.notseen .movieinfo {
+  color: #4F4F4F;
+}
+
+.movieinfo p {
+  margin-bottom: 0;
+}
+
+.grid-item {
+  position: relative;
 }
