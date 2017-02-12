@@ -1,0 +1,22 @@
+{
+  "name": "movielist",
+  "homepage": "https://github.com/miguelgazela/movielist",
+  "authors": [
+    "Miguel Oliveira <miguel.oliveira@farfetch.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jsrender": "^0.9.83",
+    "masonry": "^4.1.1"
+  }
+}

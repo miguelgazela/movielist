@@ -1,0 +1,364 @@
+{
+    "years": [{
+            "year": 2017,
+            "movies": [{
+                    "title": "Split",
+                    "imagePath": "split.jpg",
+                    "year": 2016,
+                    "genres": ["Thriller", "Horror"],
+                    "seen": "11 Fev",
+                    "imdbScore": 7.5
+                },
+                {
+                    "title": "The Girl With the Dragon Tattoo",
+                    "imagePath": "girldragon.jpg",
+                    "year": 2011,
+                    "genres": ["Crime", "Mystery", "Drama"],
+                    "seen": "29 Jan",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "La La Land",
+                    "imagePath": "lalaland.jpg",
+                    "year": 2017,
+                    "genres": ["Comedy", "Musical", "Drama"],
+                    "seen": "28 Jan",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Passengers",
+                    "imagePath": "passengers.jpg",
+                    "year": 2017,
+                    "genres": ["Adventure", "Drama", "Romance"],
+                    "seen": "14 Jan",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "The Girl on the Train",
+                    "imagePath": "girltrain.jpg",
+                    "year": 2016,
+                    "genres": ["Mystery", "Drama", "Thriller"],
+                    "seen": "08 Jan",
+                    "imdbScore": 0
+                }
+            ]
+        },
+        {
+            "year": 2016,
+            "movies": [{
+                    "title": "Love Actually",
+                    "imagePath": "loveactually.jpg",
+                    "year": 2003,
+                    "genres": ["Comedy", "Drama", "Romance"],
+                    "seen": "30 Dec",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Pete's Dragon",
+                    "imagePath": "dragon.jpg",
+                    "year": 2016,
+                    "genres": ["Adventure", "Family", "Fantasy"],
+                    "seen": "23 Dec",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Harry Potter and the Deathly Hallows Part 2",
+                    "imagePath": "hpdh2.jpg",
+                    "year": 2011,
+                    "genres": ["Adventure", "Family", "Fantasy"],
+                    "seen": "22 Dec",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Harry Potter and the Deathly Hallows Part 1",
+                    "imagePath": "hpdh1.jpg",
+                    "year": 2010,
+                    "genres": ["Adventure", "Family", "Fantasy"],
+                    "seen": "22 Dec",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Rogue One: A Star Wars Story",
+                    "imagePath": "rogueone.jpg",
+                    "year": 2016,
+                    "genres": ["Action", "Adventure", "Sci-Fi"],
+                    "seen": "20 Dec",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Harry Potter and the Sorcerer's Stone",
+                    "imagePath": "hpstone.jpg",
+                    "year": 2001,
+                    "genres": ["Family", "Adventure", "Fantasy"],
+                    "seen": "",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Harry Potter and the Chamber of Secrets",
+                    "imagePath": "hpchamber.jpg",
+                    "year": 2002,
+                    "genres": ["Family", "Adventure", "Fantasy"],
+                    "seen": "",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Harry Potter and the Prisoner of Azkaban",
+                    "imagePath": "hpprisoner.jpg",
+                    "year": 2004,
+                    "genres": ["Family", "Adventure", "Fantasy"],
+                    "seen": "",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Harry Potter and the Goblet of Fire",
+                    "imagePath": "hpgoblet.jpg",
+                    "year": 2005,
+                    "genres": ["Family", "Adventure", "Fantasy"],
+                    "seen": "12 Dec",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Harry Potter and the Order of the Phoenix",
+                    "imagePath": "hpphoenix.jpg",
+                    "year": 2007,
+                    "genres": ["Family", "Adventure", "Fantasy"],
+                    "seen": "18 Dec",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Harry Potter and the Half-Blood Prince",
+                    "imagePath": "hpprince.jpg",
+                    "year": 2009,
+                    "genres": ["Family", "Adventure", "Fantasy"],
+                    "seen": "18 Dec",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "The Martian",
+                    "imagePath": "martian.jpg",
+                    "year": 2015,
+                    "genres": ["Drama", "Adventure", "Sci-Fi"],
+                    "seen": "",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Doctor Strange",
+                    "imagePath": "drstrange.jpg",
+                    "year": 2016,
+                    "genres": ["Action", "Adventure", "Fantasy"],
+                    "seen": "",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Fantastic Beasts and Where to Find Them",
+                    "imagePath": "beasts.jpg",
+                    "year": 2016,
+                    "genres": ["Family", "Adventure", "Fantasy"],
+                    "seen": "19 Nov",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Arrival",
+                    "imagePath": "arrival.jpg",
+                    "year": 2016,
+                    "genres": ["Drama", "Mistery", "Sci-Fi"],
+                    "seen": "19 Nov",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Seven",
+                    "imagePath": "seven.jpg",
+                    "year": 1995,
+                    "genres": ["Crime", "Mistery", "Drama"],
+                    "seen": "",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Sully",
+                    "imagePath": "sully.jpg",
+                    "year": 2016,
+                    "genres": ["Biography", "Drama"],
+                    "seen": "Sep",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Inside Out",
+                    "imagePath": "insideout.jpg",
+                    "year": 2015,
+                    "genres": ["Animation", "Adventure", "Comedy"],
+                    "seen": "",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "The Conjuring 2",
+                    "imagePath": "conjuring2.jpg",
+                    "year": 2016,
+                    "genres": ["Horror", "Mistery", "Thriller"],
+                    "seen": "12 Aug",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Finding Dory",
+                    "imagePath": "dory.jpg",
+                    "year": 2016,
+                    "genres": ["Animation", "Adventure", "Comedy"],
+                    "seen": "",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Star Trek Beyond",
+                    "imagePath": "startrekbeyond.jpg",
+                    "year": 2016,
+                    "genres": ["Action", "Adventure", "Sci-Fi"],
+                    "seen": "",
+                    "imdbScore": 0
+                },
+                {
+                    "title": "Inferno",
+                    "imagePath": "inferno.jpg",
+                    "year": 2016,
+                    "genres": ["Adventure", "Action", "Crime"],
+                    "seen": "",
+                    "imdbScore": 0
+                }
+            ]
+        }
+    ],
+    "queue": [{
+            "title": "War for the Planet of the Apes",
+            "imagePath": "apes.jpg",
+            "year": 2017,
+            "genres": ["Action", "Adventure", "Drama"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "Spider-Man: Homecoming",
+            "imagePath": "spidey.jpg",
+            "year": 2017,
+            "genres": ["Action", "Adventure", "Sci-Fi"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "Baywatch",
+            "imagePath": "baywatch.jpg",
+            "year": 2017,
+            "genres": ["Action", "Comedy"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "Kong: Skull Island",
+            "imagePath": "kong.jpg",
+            "year": 2017,
+            "genres": ["Action", "Adventure", "Fantasy"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "American History X",
+            "imagePath": "americanx.jpg",
+            "year": 2017,
+            "genres": ["Crime", "Drama"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "Pulp Fiction",
+            "imagePath": "pulpfiction.jpg",
+            "year": 1994,
+            "genres": ["Crime", "Drama"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "Inception",
+            "imagePath": "inception.jpg",
+            "year": 2010,
+            "genres": ["Action", "Adventure", "Sci-Fi"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "City of God",
+            "imagePath": "citygod.jpg",
+            "year": 2002,
+            "genres": ["Crime", "Drama"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "Fight Club",
+            "imagePath": "fightclub.jpg",
+            "year": 1999,
+            "genres": ["Drama"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "Lego Batman: The Movie",
+            "imagePath": "legobatman.jpg",
+            "year": 2017,
+            "genres": ["Action", "Adventure", "Animation"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "John Wick 2",
+            "imagePath": "wick2.jpg",
+            "year": 2017,
+            "genres": ["Action", "Crime", "Thriller"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "The Great Wall",
+            "imagePath": "greatwall.jpg",
+            "year": 2017,
+            "genres": ["Action", "Adventure", "Fantasy"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "Logan",
+            "imagePath": "logan.jpg",
+            "year": 2017,
+            "genres": ["Action", "Drama", "Sci-Fi"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "The Circle",
+            "imagePath": "circle.jpg",
+            "year": 2017,
+            "genres": ["Drama", "Thriller", "Sci-Fi"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "Guardians of the Galaxy: Vol 2",
+            "imagePath": "guardians2.jpg",
+            "year": 2017,
+            "genres": ["Action", "Sci-Fi"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "Life",
+            "imagePath": "life.jpg",
+            "year": 2017,
+            "genres": ["Thriller", "Sci-Fi"],
+            "seen": "",
+            "imdbScore": 0
+        },
+        {
+            "title": "Wonder Woman",
+            "imagePath": "wonderwoman.jpg",
+            "year": 2017,
+            "genres": ["Action", "Adventure", "Fantasy"],
+            "seen": "",
+            "imdbScore": 0
+        }
+    ]
+}
