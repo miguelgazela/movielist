@@ -1,7 +1,16 @@
 {
     "years": [{
             "year": 2017,
-            "movies": [{
+            "movies": [
+              {
+                  "title": "The Jungle Book",
+                  "imagePath": "junglebook.jpg",
+                  "year": 2016,
+                  "genres": ["Adventure", "Drama", "Family"],
+                  "seen": "12 Fev",
+                  "imdbScore": 7.5
+              },
+                {
                     "title": "Split",
                     "imagePath": "split.jpg",
                     "year": 2016,
@@ -45,7 +54,8 @@
         },
         {
             "year": 2016,
-            "movies": [{
+            "movies": [
+              {
                     "title": "Love Actually",
                     "imagePath": "loveactually.jpg",
                     "year": 2003,
