@@ -3,6 +3,14 @@
             "year": 2017,
             "movies": [
               {
+                  "title": "The Devil Wears Prada",
+                  "imagePath": "devilprada.jpg",
+                  "year": 2006,
+                  "genres": ["Comedy", "Drama"],
+                  "seen": "17 Fev",
+                  "imdbScore": 6.8
+              },
+              {
                   "title": "The Jungle Book",
                   "imagePath": "junglebook.jpg",
                   "year": 2016,
