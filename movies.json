@@ -3,6 +3,14 @@
             "year": 2017,
             "movies": [
               {
+                  "title": "Moana",
+                  "imagePath": "moana.jpg",
+                  "year": 2016,
+                  "genres": ["Animation", "Family", "Adventure"],
+                  "seen": "18 Fev",
+                  "imdbScore": 7.9
+              },
+              {
                   "title": "The Devil Wears Prada",
                   "imagePath": "devilprada.jpg",
                   "year": 2006,
