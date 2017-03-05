@@ -3,6 +3,30 @@
             "year": 2017,
             "movies": [
               {
+                  "title": "Logan",
+                  "imagePath": "logan.jpg",
+                  "year": 2017,
+                  "genres": ["Action", "Drama", "Sci-Fi"],
+                  "seen": "",
+                  "imdbScore": 0
+              },
+              {
+                  "title": "John Wick 2",
+                  "imagePath": "wick2.jpg",
+                  "year": 2017,
+                  "genres": ["Action", "Crime", "Thriller"],
+                  "seen": "25 Fev",
+                  "imdbScore": 8.3
+              },
+              {
+                  "title": "John Wick",
+                  "imagePath": "wick.jpg",
+                  "year": 2014,
+                  "genres": ["Crime", "Action", "Thriller"],
+                  "seen": "25 Fev",
+                  "imdbScore": 7.2
+              },
+              {
                   "title": "Moana",
                   "imagePath": "moana.jpg",
                   "year": 2016,
@@ -331,26 +355,10 @@
             "imdbScore": 0
         },
         {
-            "title": "John Wick 2",
-            "imagePath": "wick2.jpg",
-            "year": 2017,
-            "genres": ["Action", "Crime", "Thriller"],
-            "seen": "",
-            "imdbScore": 0
-        },
-        {
             "title": "The Great Wall",
             "imagePath": "greatwall.jpg",
             "year": 2017,
             "genres": ["Action", "Adventure", "Fantasy"],
-            "seen": "",
-            "imdbScore": 0
-        },
-        {
-            "title": "Logan",
-            "imagePath": "logan.jpg",
-            "year": 2017,
-            "genres": ["Action", "Drama", "Sci-Fi"],
             "seen": "",
             "imdbScore": 0
         },
